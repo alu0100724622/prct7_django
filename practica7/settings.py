@@ -38,6 +38,8 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'P7',
     'lettuce.django',
+    'django_admin_bootstrapped.bootstrap3',
+    'django_admin_bootstrapped',
 )
 
 MIDDLEWARE_CLASSES = (
